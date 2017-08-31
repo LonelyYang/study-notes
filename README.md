@@ -207,25 +207,25 @@
   >$ git fetch [remote]
 
 * 显示所有远程仓库
-  >$ git remote -v
+  >$ git remote -v
 
 * 显示某个远程仓库的信息
-  >$ git remote show [remote]
+  >$ git remote show [remote]
 
 * 增加一个新的远程仓库，并命名
-  >$ git remote add [shortname] [url]
+  >$ git remote add [shortname] [url]
 
 * 取回远程仓库的变化，并与本地分支合并
-  >$ git pull [remote] [branch]
+  >$ git pull [remote] [branch]
 
 * 上传本地指定分支到远程仓库
-  >$ git push [remote] [branch]
+  >$ git push [remote] [branch]
 
 * 强行推送当前分支到远程仓库，即使有冲突
-  >$ git push [remote] --force
+  >$ git push [remote] --force
 
 * 推送所有分支到远程仓库
-  >$ git push [remote] --all
+  >$ git push [remote] --all
   
 ##  九、撤销
 
@@ -262,5 +262,5 @@
   >$ git stash pop
   
 ## 十、其他
-* 生成一个可供发布的压缩包  
-  >$ git archive
+* 生成一个可供发布的压缩包
+  >$ git archive
