@@ -1,5 +1,6 @@
+常用 Git 命令清单，摘自阮一峰的一篇文章 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+
 ## 一、新建代码库
-###常用 Git 命令清单，摘自阮一峰的一篇文章 /a http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
 * 在当前目录新建一个Git代码库
   >$ git init
 
