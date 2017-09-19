@@ -1,6 +1,6 @@
 # 部分ES6语法概要（Babel下的ES6兼容性与规范）
 
-[引用：Babel在实际的开发中使用，一份关于ES6部分的规范](https://github.com/ouvens/es6-code-style-guide)
+[附：Babel在实际的开发中使用，一份关于ES6部分的规范](https://github.com/ouvens/es6-code-style-guide)
 
 >对照表
 <table>
