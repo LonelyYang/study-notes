@@ -68,7 +68,7 @@
 
 ```js
 // ES6
-var fn= (v=>console.log(v));
+var fn= v => console.log(v);
 ```
 转换后
 ```js
