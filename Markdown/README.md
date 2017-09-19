@@ -114,5 +114,12 @@
 [baidu](http://www.baidu.com)
 
 
+***
+
+# 代码片段
+
+``` <code></code> ```  
+``` <pre></pre> ```
+<pre>``` ```</pre>
 
 
