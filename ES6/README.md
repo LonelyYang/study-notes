@@ -467,7 +467,9 @@ bar.next(); // Object {value: undefined, done: true}
 ```
 regeneratorRuntime在IE下面不能支持，所以不建议使用。
 
-ES6新特性用到的就这些，其它的基本由浏览器本身决定。这部分代码Babel会像处理es5代码一样，不进行加工处理。对于部分ES6的语法，Babel会解析抛错，即使不抛错也不进行处理，建议不使用。 1.15 数组拷贝
+ES6新特性用到的就这些，其它的基本由浏览器本身决定。这部分代码Babel会像处理es5代码一样，不进行加工处理。对于部分ES6的语法，Babel会解析抛错，即使不抛错也不进行处理，建议不使用。   
+
+### 1.15 数组拷贝
 ```js
 const items = [1,2,3];
 const itemsCopy = [...items];
